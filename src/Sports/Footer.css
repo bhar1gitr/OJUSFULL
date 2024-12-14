@@ -1,0 +1,28 @@
+/* Custom Footer Styles */
+.footer {
+    background-color: black !important;
+    color: white;
+  }
+  
+  .footer .nav-link {
+    text-decoration: none;
+    color: white;
+    margin-bottom: 10px;
+  }
+  
+  .footer .nav-link:hover {
+    color: #f0f0f0;
+  }
+  
+  .footer .social-icons .nav-link {
+    margin-right: 15px;
+  }
+  
+  .footer .social-icons .nav-link:hover {
+    color: #007bff; /* Social icons color on hover */
+  }
+  
+  .footer .text-center {
+    margin-top: 20px;
+  }
+  
