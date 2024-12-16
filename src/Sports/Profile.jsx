@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import './Profile.css';
-import profile from "../assets/profile.png"
+import profile from "../assets/trophy1.png"
 
 const DropdownMenu = () => {
   const [isOpen, setIsOpen] = useState(false);

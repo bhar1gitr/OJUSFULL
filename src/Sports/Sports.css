@@ -21,7 +21,7 @@ body {
 
 /* SportsCard.css */
 .events{
-  background-color: #160D08;
+  background-color: black;
   border: none;
 }
 
@@ -32,7 +32,6 @@ body {
 .Gallery{
   display: flex;
   flex-direction: column;
-  
   width: 1200px;
   justify-content: center;
   align-items: center;
