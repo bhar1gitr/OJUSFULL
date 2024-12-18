@@ -58,7 +58,7 @@ const HeroSection = () => {
           
           <li><Link to="/login">Login</Link></li>
         </ul>
-        <DropdownMenu/>
+        
       </header>
 
       {/* Slider Section */}

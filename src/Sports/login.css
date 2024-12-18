@@ -7,7 +7,7 @@
     min-height: 100vh;
     background: #111;
     width: 100%;
-    background-color: black;
+    background-color: black !important;
   }
   
   /* Styles for the ring and animation */
@@ -75,7 +75,7 @@
   }
   .login h2 {
     font-size: 2em;
-    color: #000;
+    color: white;
   }
   
   .login .inputBx {
@@ -87,10 +87,10 @@
     width: 100%;
     padding: 12px 20px;
     background: transparent;
-    border: 2px solid #000;
+    border: 2px solid #ffffff;
     border-radius: 40px;
     font-size: 13px;
-    color: #000;
+    color: white;
     box-shadow: none;
     outline: none;
   }
@@ -102,7 +102,7 @@
     cursor: pointer;
   }
   .login .inputBx input::placeholder {
-    color: rgba(0, 0, 0, 0.75);
+    color: rgba(255, 255, 255, 0.75);
   }
   .login .links {
     position: relative;
@@ -113,7 +113,7 @@
     padding: 0 20px;
   }
   .login .links a {
-    color: #000;
+    color: white;
     text-decoration: none;
   }
   

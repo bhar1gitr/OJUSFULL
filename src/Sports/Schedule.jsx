@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import './Schedule.css';
 import sun from "../assets/sun.png";

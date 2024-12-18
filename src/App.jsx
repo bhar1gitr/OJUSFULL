@@ -10,6 +10,7 @@ import Cultural from './Cultural/Cultural';
 import Events from './Cultural/Events';
 import Login from './Sports/Login';
 import Schedule from "./Sports/Schedule"
+import Heads from './Heads/Heads';
 
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
       <Route path="/events" exact element={<Events />} />
       <Route path="/login" exact element={<Login />} />
       <Route path="/schedule" exact element={<Schedule />} />
+      <Route path="/heads" exact element={<Heads />} />
 
 
 

@@ -28,7 +28,7 @@ body{
 
 @media screen and (max-width: 700px) {
   .headingCenter{
-    font-size: 1rem;
+    font-size: 3.5rem;
     padding: 40px 0px;
   }
 }
