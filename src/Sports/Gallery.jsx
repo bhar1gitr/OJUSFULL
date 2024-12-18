@@ -22,6 +22,7 @@ const Gallery = () => {
 
   return (
     <div className="swiper-container">
+    {/* aewf */}
       <Swiper
         effect="coverflow"
         grabCursor={true}
