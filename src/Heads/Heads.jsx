@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import ScrollReveal from 'scrollreveal';
-import './heads.css'; // assuming heads.css is in your src folder
+import './Heads.css'; // assuming heads.css is in your src folder
 
 const Heads = () => {
   const [tab, setTab] = useState(0); // Tracks the active tab
